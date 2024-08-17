@@ -51,30 +51,6 @@ Sketch -> Upload
   
 ![IB136EL1_NarrowCorsa_PCB.png](image/IB136EL1_NarrowCorsa_PCB.png)
 
-# 機構部品
-アルミパイプと基板接続 手前側  
-右用、左用はミラー反転して出力する  
-[ArmBtmRight.stl](mech/ArmBtmRight.stl)  
-![部品ArmBtmRight](image/ArmBtmRight.png)
-  
-アルミパイプと基板接続 奥側  
-右用、左用はミラー反転して出力する  
-[ArmTop.stl](mech/ArmTop.stl)  
-![部品ArmTop.png](image/ArmTop.png)
-  
-左右のジョイント部  
-[JointLeft.stl](mech/JointLeft.stl)  
-![部品JointLeft.png](image/JointLeft.png)  
-  
-[JointRight.stl](mech/JointRight.stl)  
-![部品JointRight.png](image/JointRight.png)  
-  
-アルミパイプのエンドキャップ、大きさ色々  
-[EndCap.stl](mech/EndCap.stl)  
-[EndCap9.5.stl](mech/EndCap9.5.stl)  
-[EndCap9.7.stl](mech/EndCap9.7.stl)  
-!{部品EndCap.png](image/EndCap.png)
-
 # Licence
 MIT License  
   
